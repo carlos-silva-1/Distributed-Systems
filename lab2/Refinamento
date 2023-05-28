@@ -1,0 +1,4 @@
+A interface não inclui nada mais complicado do que o envio do nome do arquivo e recepção da mensagem contendo o resultado do processamento. 
+O nome do arquivo deve incluir seu formato (por exemplo, '.txt' caso seja um arquivo desse tipo). 
+O resultado é retornado como uma lista ordenada, onde cada item tem a forma (palavra, número de ocorrências). Por exemplo, caso a palavra mais comum no 
+texto seja 'água', com 5 ocorrências, o primeiro item da lista será (água, 5).

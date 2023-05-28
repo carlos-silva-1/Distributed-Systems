@@ -1,0 +1,18 @@
+node_id = 1
+neighbour_ids = [2,3,4,6]
+
+node_id = 2
+neighbour_ids = [1,4]
+
+node_id = 3
+neighbour_ids = [1,5]
+
+node_id = 4
+neighbour_ids = [1,2]
+
+node_id = 5
+neighbour_ids = [3,6]
+
+node_id = 6
+neighbour_ids = [1,5]
+
